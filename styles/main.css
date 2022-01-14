@@ -37,4 +37,11 @@ h2 {
 }
 .container {
     max-width: 80vw;
+    margin: 20px auto 10px auto;
+    background-color: white;
+
+}
+.main-content-container {
+    
+    
 }
