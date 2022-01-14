@@ -28,6 +28,8 @@ h3 {
     vertical-align: middle;
     padding-left: 0.3rem;
 }
+/* HEADER*/
+
 .site-header {
     padding: 15px 0 15px 15px;
     background-color: white;
@@ -37,6 +39,7 @@ h3 {
     vertical-align: middle;
     
 }
+/* MAIN CONTAINER FULL WIDTH*/
 .full-width {
     width: 100%;
 }
@@ -48,7 +51,7 @@ h3 {
 }
 .main-content-container {
     
-    
+/* Buttons Holder and button  styling */   
 }
 .button-holder {
     border-bottom: 1px solid #f6f8f9;
@@ -87,13 +90,16 @@ h3 {
     background-color: black;
     color: white;
 }
-    
+ /*task list styling starts here*/    
 .task-list-holder {
-    padding: 30px 0px 40px 40px; 
+    padding: 0px 40px 40px 40px; 
 }
 
 .task-title span {
     vertical-align: middle;
+}
+.task-list {
+    margin-top: 30px;
 }
 .task-title {
     font-size: 0.5rem;
@@ -108,7 +114,7 @@ h3 {
 .task {
     font-weight: 300;
     font-size: 0.9rem;
-    padding: 12px 0px 20px 5px;
+    padding: 10px 0px 10px 5px;
 }
 .span-icon-border {
     padding: 2px 4px;
@@ -118,6 +124,7 @@ h3 {
     border-radius: 50%;
     
 }
+/* Tag Styling */
 .tag {
 
     display: inline-block;
@@ -127,4 +134,7 @@ h3 {
     background-color: #47adf1;
     color: white;
     border-radius: 8px;
+}
+.purple {
+    background-color: rgb(180, 85, 209);
 }
