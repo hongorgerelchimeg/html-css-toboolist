@@ -1,7 +1,7 @@
 * {
     margin: 0;
     padding: 0;
-    
+
 }
 body {
     font-family: 'Roboto', sans-serif;
@@ -13,6 +13,11 @@ h1 {
 }   
 h2 {
 
+}
+.logo-container {
+    display: flex;
+    align-items: center;
+    padding: 15px 0 15px 15px;
 }  
 .logo-text {
     margin-left: 10px;
