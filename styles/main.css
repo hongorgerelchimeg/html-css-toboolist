@@ -7,24 +7,39 @@ body {
     font-family: 'Roboto', sans-serif;
     font-family: 'Rubik', sans-serif;
     background-color: #f6f8f9;
+    font-size: 16px;
 }
 h1 {
-
+    font-size: 2.2em;
+    font-family: 'Rubik' , sans-serif;
+    font-weight: 500;
+    line-height: 1;    
 }   
 h2 {
 
 }
-.logo-container {
-    display: flex;
-    align-items: center;
-    padding: 15px 0 15px 15px;
-}  
-.logo-text {
-    margin-left: 10px;
-    font-size: 2.2em;
-    font-family: 'Rubik' , sans-serif;
-    font-weight: 500;
+.main-title {
+    display: inline-block;
+    vertical-align: middle;
+    padding-left: 0.3rem;
 }
+.site-header {
+    padding: 15px 0 15px 15px;
+    background-color: white;
+}
+
+.site-header span img {
+    vertical-align: middle;
+    
+}
+      
+}  
+
+    
+    
+    
+}
+
 header {
     background-color: white;
 }
