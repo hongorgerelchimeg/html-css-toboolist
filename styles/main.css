@@ -32,14 +32,9 @@ h2 {
     vertical-align: middle;
     
 }
-      
-}  
-
-    
-    
-    
+.full-width {
+    width: 100%;
 }
-
-header {
-    background-color: white;
+.container {
+    max-width: 80vw;
 }
