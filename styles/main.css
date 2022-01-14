@@ -91,3 +91,15 @@ h3 {
 .task-list-holder {
     padding: 40px 0px 40px 40px; 
 }
+
+.task-title span {
+    vertical-align: middle;
+}
+.inline-text {
+    display: inline-block;
+    vertical-align: middle;
+}
+.span-icon {
+    font-size: 0.5rem;
+    padding-right: 2px;
+}
