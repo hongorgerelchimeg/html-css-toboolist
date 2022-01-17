@@ -35,7 +35,7 @@ h3 {
     background-color: white;
 }
 
-.site-header span img {
+.site-header img {
     vertical-align: middle;
     
 }
@@ -51,8 +51,9 @@ h3 {
 }
 .main-content-container {
     
+}  
 /* Buttons Holder and button  styling */   
-}
+
 .button-holder {
     border-bottom: 1px solid #f6f8f9;
     
@@ -63,7 +64,7 @@ h3 {
 }
 .button-task {
     background-color: #47adf1;
-    border: none;
+    border: 1px solid #47adf1;
     border-radius: 5px;
     color: white;
     padding: 5px 10px;
